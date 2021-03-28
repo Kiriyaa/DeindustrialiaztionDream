@@ -1,3 +1,3 @@
-# NewReality_Midterm
+# DeindustrialiaztionDream
 
 Website: https://kiriyaa.github.io/DeindustrialiaztionDream/.
